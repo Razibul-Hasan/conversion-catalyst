@@ -7,6 +7,7 @@ import ProcessSection from "@/components/landing/ProcessSection";
 import CaseStudiesSection from "@/components/landing/CaseStudiesSection";
 import PricingSection from "@/components/landing/PricingSection";
 import FAQSection from "@/components/landing/FAQSection";
+import ConsultationSection from "@/components/landing/ConsultationSection";
 import FinalCTASection from "@/components/landing/FinalCTASection";
 import Footer from "@/components/landing/Footer";
 
