@@ -33,6 +33,7 @@ const Index = () => {
       <div id="faq">
         <FAQSection />
       </div>
+      <ConsultationSection />
       <FinalCTASection />
       <Footer />
     </div>
